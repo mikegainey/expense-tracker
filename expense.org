@@ -1,0 +1,258 @@
+| 2013-11-26 | expense |   14.56 | PX groceries                             | groceries            |
+| 2013-11-27 | expense |   29.89 | Sembach commissary                       | groceries            |
+| 2013-11-27 | expense |  300.00 | SCU Ramstein Air Base                    | cash                 |
+| 2013-11-27 | expense |   37.84 | Sembach post office (footlocker)         | postage              |
+| 2013-11-30 | expense |   10.98 | PX rug, linen?                           | household-items      |
+| 2013-11-30 | expense |   13.02 | PX misc                                  | household-items      |
+| 2013-12-01 | expense |   12.77 | PX AA batteries, ...                     | household-items      |
+| 2013-12-02 | expense |   38.64 | PX gas 39.47l at $0.979/l                | gas                  |
+| 2013-12-03 | expense |   14.69 | PX gas 15l at $0.979/ltr                 | gas                  |
+| 2013-12-07 | expense |   49.99 | PX heavy coat for Jagdhorn perf          | clothes              |
+| 2013-12-09 | expense |   31.59 | Kleber post office (footlocker)          | postage              |
+| 2013-12-10 | expense |   16.66 | Chili's in Linthicum, MD                 | restaurants          |
+| 2013-12-14 | expense |  141.47 | Walmart Samsung T139 + minutes (for Dad) | electronics          |
+| 2013-12-21 | expense |    6.92 | Kroger Coke, water                       | groceries            |
+| 2013-12-27 | expense |   21.64 | Fry's microSD card                       | computer-hardware    |
+| 2013-12-29 | expense |   22.72 | Kroger                                   | groceries            |
+| 2014-01-25 | expense |   74.98 | PX microwave oven                        | household-appliance  |
+| 2014-02-05 | expense |   37.35 | Wandering Cowboys Stetson box            | uniform              |
+| 2014-02-08 | expense |  571.53 | Ikea furniture                           | furniture            |
+| 2014-02-08 | expense |   64.94 | Guitar Center small guitar amp           | guitar music         |
+| 2014-02-10 | expense |   38.35 | PX misc                                  | household-items      |
+| 2014-02-12 | expense |   35.82 | Fort Hood commissary                     | groceries            |
+| 2014-02-14 | expense |   25.47 | PX gas 8.064 gallons at $3.159/gal       | gas                  |
+| 2014-02-17 | expense |   13.22 | Kroger gas 4.379 gallons at $3.019/gal   | gas                  |
+| 2014-02-17 | expense |   17.96 | PX misc                                  | household-items      |
+| 2014-02-19 | expense |  301.50 | ATM                                      | cash                 |
+| 2014-02-23 | expense |   64.96 | PX fan, basket, etc.                     | household-items      |
+| 2014-02-24 | expense |   24.60 | PX gas 7.787 gallons @ $3.159/gal        | gas                  |
+| 2014-02-28 | expense |   50.50 | PX surge protector, night lights         | household-items      |
+| 2014-03-01 | expense |   11.88 | Lowes air filters                        | household-items      |
+| 2014-03-01 | expense |   42.35 | PX CFL lights                            | household-items      |
+| 2014-03-02 | expense |   26.26 | Fort Hood Commissary                     | groceries            |
+| 2014-03-03 | expense |   14.98 | PX Sterilite plastic containers          | household-items      |
+| 2014-03-03 | expense |   55.73 | PX ceramic heater, door security bar     | household-items      |
+| 2014-03-09 | expense |   33.40 | PX shredder lubricant, ...               | household-items      |
+| 2014-03-13 | expense |  301.50 | ATM                                      | cash                 |
+| 2014-03-14 | expense |   24.18 | PX iron                                  | household-items      |
+| 2014-03-14 | expense |   25.35 | PX gas 7.973 gallons @ $3.179            | gas                  |
+| 2014-03-14 | expense |   28.29 | Fort Hood alterations                    | uniform              |
+| 2014-03-18 | expense |   22.90 | PX MCSS uniform stuff                    | uniform              |
+| 2014-03-26 | expense |   12.98 | PX gas can                               | household-items      |
+| 2014-03-27 | expense |   10.47 | PX 9V batteries                          | household-items      |
+| 2014-03-30 | expense |    6.63 | PX gas 2.046 gallons @ $3.239/gal        | gas                  |
+| 2014-04-01 | expense |   26.27 | PX gas 8.110 gallons @ $3.239/gal        | gas                  |
+| 2014-04-01 | expense |   29.97 | PX lawn-care supplies                    | household-items      |
+| 2014-04-01 | expense |  301.50 | ATM                                      | cash                 |
+| 2014-04-09 | expense |  106.27 | PX string trimmer                        | household-items      |
+| 2014-04-12 | expense |   20.01 | PX gas 6.064 gallons @ $3.299/gal        | gas                  |
+| 2014-04-20 | expense |   12.11 | PX gas 3.787 gallons @ $3.199/gal        | gas                  |
+| 2014-04-20 | expense |    3.67 | Pearland Exxon 1.019 gal @ $3.599/gal    | gas                  |
+| 2014-04-22 | expense |  301.50 | ATM                                      | cash                 |
+| 2014-04-25 | expense |   88.68 | PX MCSS ACU trousers                     | uniform              |
+| 2014-04-26 | expense |   48.11 | PX fan, swiffer refills, ...             | household-items      |
+| 2014-04-28 | expense |   29.20 | PX towels                                | household-items      |
+| 2014-04-28 | expense |   37.63 | Fort Hood alterations                    | uniform              |
+| 2014-04-29 | expense |   26.08 | PX gas 7.518 gallons @ $3.469/gal        | gas                  |
+| 2014-05-03 | expense |   63.06 | PX misc                                  | household-items      |
+| 2014-05-08 | expense |  301.50 | ATM                                      | cash                 |
+| 2014-05-09 | expense |   42.22 | Ikea chair, ...                          | household-items      |
+| 2014-05-09 | expense |   56.90 | Ikea pillow                              | household-items      |
+| 2014-05-17 | expense |   24.02 | PX gas 7.088 gallons @ $3.389/gal        | gas                  |
+| 2014-05-18 | expense |   27.48 | PX towels, night lights                  | household-items      |
+| 2014-05-20 | expense |   14.05 | PX cleaning supplies                     | household-items      |
+| 2014-05-21 | expense |   12.94 | PX MCSS uniform stuff                    | uniform              |
+| 2014-05-23 | expense |   20.00 | Better-Than-New Band Repair              | trumpet              |
+| 2014-05-24 | expense |   14.45 | Kroger flash drive                       | computer             |
+| 2014-05-24 | expense |   24.88 | Kroger gas 7.508 gallons @ $3.329/gal    | gas                  |
+| 2014-05-27 | expense |  303.00 | ATM                                      | cash                 |
+| 2014-05-30 | expense |   12.77 | PX misc                                  | groceries            |
+| 2014-06-01 | expense |   16.85 | PX misc                                  | household-items      |
+| 2014-06-01 | expense |   22.25 | PX gas 6.565 gallons @ $3.389/gal        | gas                  |
+| 2014-06-09 | expense |   33.06 | Lowes air filters                        | household-items      |
+| 2014-06-14 | expense |  303.00 | ATM                                      | cash                 |
+| 2014-06-17 | expense |   23.50 | PX MCSS uniform items                    | uniform              |
+| 2014-06-20 | expense |   33.35 | PX misc orthotic inserts, ...            | household-items      |
+| 2014-06-21 | expense |   27.11 | PX gas 7.747 @ $3.499/gal                | gas                  |
+| 2014-06-28 | expense |   50.67 | PX misc                                  | household-items      |
+| 2014-07-02 | expense |    5.73 | PX gas 1.676 gallons @ $3.419/gal        | gas                  |
+| 2014-07-03 | expense |   23.25 | PX gas 6.802 gallons @ $3.419/gal        | gas                  |
+| 2014-07-08 | expense |  303.00 | ATM                                      | cash                 |
+| 2014-07-15 | expense |   32.56 | Fort Hood commissary                     | groceries            |
+| 2014-07-16 | expense |   28.25 | PX gas 8.312 gallons at $3.399/gal       | gas                  |
+| 2014-07-26 | expense |   29.61 | PX toilet paper, travel shaver           | household-items      |
+| 2014-07-27 | expense |   18.34 | Kroger gas 5.560 gallons @ $3.299        | gas                  |
+| 2014-07-27 | expense |  303.00 | ATM                                      | cash                 |
+| 2014-08-09 | expense |   27.79 | PX gas 8.580 gallons @ $3.239/gal        | gas                  |
+| 2014-08-19 | expense |   22.67 | Home Depot flashlights, cargo straps     | household-items      |
+| 2014-08-22 | expense |  303.00 | ATM                                      | cash                 |
+| 2014-08-31 | expense |   27.04 | PX gas 8.561 gallons @ $3.159/gal        | gas                  |
+| 2014-09-01 | expense |   27.81 | PX toilet paper, ...                     | household-items      |
+| 2014-09-10 | expense |  301.50 | ATM                                      | cash                 |
+| 2014-09-14 | expense |   48.69 | Office Max Brother TN 420 printer        | computer             |
+| 2014-09-21 | expense |   25.20 | PX gas 8.183 gallons @ $3.079/gal        | gas                  |
+| 2014-09-29 | expense |  301.50 | ATM                                      | cash                 |
+| 2014-10-04 | expense |   13.25 | Pluckers Fort Worth                      | restaurants          |
+| 2014-10-10 | expense |   20.70 | PX gas 6.793 gallons @ $2.969            | gas                  |
+| 2014-10-11 | expense |   43.29 | Fry's Logitech K400B wireless keyboard   | computer             |
+| 2014-10-13 | expense |   14.78 | Kroger gas 4.994 gallons @ $2.958/gal    | gas                  |
+| 2014-10-19 | expense |   14.04 | PX misc                                  | household-items      |
+| 2014-10-19 | expense |   20.71 | PX gas 7.478 gallons @ $2.769/gal        | gas                  |
+| 2014-10-20 | expense |   17.16 | PX gas 8.253 gallons @ $2.079/gal        | gas                  |
+| 2014-10-21 | expense |    7.95 | Fort Hood Subway                         | restaurants          |
+| 2014-10-22 | expense |  301.50 | ATM                                      | cash                 |
+| 2014-10-23 | expense |   56.46 | PX batteries, shampoo, ...               | household-items      |
+| 2014-10-26 | expense |   16.98 | PX food                                  | groceries            |
+| 2014-11-01 | expense |    2.62 | PX gas 0.998 gallons @ $2.629/gal        | gas                  |
+| 2014-11-09 | expense |  303.00 | ATM                                      | cash                 |
+| 2014-11-12 | expense |   23.39 | PX gas 9.285 gallons @ $2.519/gal        | gas                  |
+| 2014-11-15 | expense |   20.74 | PX misc (same receipt as jacket)         | household-items      |
+| 2014-11-15 | expense |   49.00 | PX microfiber jacket                     | clothes              |
+| 2014-11-20 | expense |   25.20 | PX MCSS belt buckle                      | uniform              |
+| 2014-11-28 | expense |   25.50 | Atlas Auto Inspection                    | car                  |
+| 2014-11-29 | expense |   16.38 | PX gas 6.826 gallons @ $2.399/gal        | gas                  |
+| 2014-11-29 | expense |  301.50 | ATM                                      | cash                 |
+| 2014-12-10 | expense |   13.15 | PC MCSS                                  | uniform              |
+| 2014-12-18 | expense |  303.00 | ATM                                      | cash                 |
+| 2014-12-25 | expense |   10.52 | Kroger gas 5.263 gallons @ $1.999        | gas                  |
+| 2014-12-26 | expense |    8.69 | PX gas 4.574 gallons @ $1.899            | gas                  |
+| 2014-12-30 | expense |  173.22 | Fry's camera, tripod (same receipt)      | electronics          |
+| 2014-12-30 | expense |  174.19 | Fry's SSD, RAM, cable                    | computer             |
+| 2014-12-31 | expense |   13.69 | Kroger gas 7.059 gallons @ $1.939/gal    | gas                  |
+| 2014-12-31 | expense |   16.22 | Home Depot task light                    | household-items      |
+| 2014-12-31 | expense |   24.77 | Walmart 32GB flash memory                | computer             |
+| 2015-01-02 | expense |   50.15 | PX Serasoft blanket, AAA batteries       | household-items      |
+| 2015-01-04 | expense |   11.07 | PX gas 6.296 gallons @ $1.759/gal        | gas                  |
+| 2015-01-04 | expense |   36.95 | PX webcam Logitech C310                  | computer             |
+| 2015-01-05 | expense |   33.39 | PX MCSS gloves, ...                      | uniform              |
+| 2015-01-14 | expense |  301.50 | ATM                                      | cash                 |
+| 2015-01-16 | expense |    9.30 | PX gas 5.604 gallons @ $1.659/gal        | gas                  |
+| 2015-01-19 | expense |    7.79 | Kroger gas 4.426 gallons @ $1.759/gal    | gas                  |
+| 2015-01-29 | expense |   15.23 | PX gas 8.661 gallons @ $1.759/gal        | gas                  |
+| 2015-01-31 | expense |   15.89 | Guitar Center Elixir Nanoweb Super light | guitar               |
+| 2015-01-31 | expense |  301.50 | ATM                                      | cash                 |
+| 2015-02-07 | expense |   18.36 | PX gas 9.371 gallons @ $1.959/gal        | gas                  |
+| 2015-02-12 | expense |  301.50 | ATM                                      | cash                 |
+| 2015-02-14 | expense |   13.59 | PX FiberOne, ...                         | groceries            |
+| 2015-02-14 | expense |   14.46 | Fort Hood Commissary                     | groceries            |
+| 2015-02-27 | expense |   17.33 | PX gas 8.257 gallons @ $2.099/gal        | gas                  |
+| 2015-02-28 | expense |   12.49 | PX laundry detergent, ...                | household-items      |
+| 2015-03-01 | expense |    7.78 | PX misc                                  | household-items      |
+| 2015-03-04 | expense |  301.50 | ATM                                      | cash                 |
+| 2015-03-05 | expense |   44.00 | Mnozil Brass Concert, San Antonio        | concert music        |
+| 2015-03-05 | expense |    6.21 | PX gas 2.826 gallons @ $2.199/gal        | gas                  |
+| 2015-03-11 | expense |   18.09 | PX gas 8.304 gallons @ $2.179/gal        | gas                  |
+| 2015-03-21 | expense |   15.74 | Kroger gas 7.535 gallons @ $2.089/gal    | gas                  |
+| 2015-03-21 | expense |  301.50 | ATM                                      | cash                 |
+| 2015-03-21 | expense |    8.45 | PX misc                                  | household-items      |
+| 2015-03-30 | expense |   18.91 | PX gas 9.008 gallons @ $2.099/gal        | gas                  |
+| 2015-04-06 | expense |   12.47 | PX misc                                  | household-items      |
+| 2015-04-13 | expense |  301.50 | ATM                                      | cash                 |
+| 2015-04-18 | expense |   31.46 | PX misc                                  | household-items      |
+| 2015-04-22 | expense |   17.95 | PX gas 8.162 gallons @ $2.199/gal        | gas                  |
+| 2015-04-28 | expense |  301.50 | ATM                                      | cash                 |
+| 2015-05-14 | expense |   18.29 | PX gas 7.989 gallons @ $2.289/gal        | gas                  |
+| 2015-05-17 | expense |  301.50 | ATM                                      | cash                 |
+| 2015-05-20 | expense |    4.80 | PX gas 2.000 gallons @ $2.399/gal        | gas                  |
+| 2015-05-27 | expense |   20.47 | PX gas 8.533 gallons @ $2.399/gal        | gas                  |
+| 2015-06-03 | expense |   20.78 | PX misc                                  | household-items      |
+| 2015-06-04 | expense |  302.50 | ATM                                      | cash                 |
+| 2015-06-15 | expense |   20.67 | PX gas 8.076 gallons @ $2.559/gal        | gas                  |
+| 2015-06-23 | expense |  302.50 | ATM                                      | cash                 |
+| 2015-06-29 | expense |   10.29 | PX misc                                  | household-items      |
+| 2015-07-07 | expense |  183.83 | PX Flexcare Platinum (toothbrush)        | household-appliance  |
+| 2015-07-11 | expense |  302.50 | ATM                                      | cash                 |
+| 2015-07-20 | expense |   16.67 | PX gas 6.835 gallons @ $2.439/gal        | gas                  |
+| 2015-07-21 | expense |   36.86 | Home Depot mailbox (for parents)         | household-items      |
+| 2015-07-25 | expense |   14.49 | Kroger misc                              | household-items      |
+| 2015-07-31 | expense |   18.44 | Kroger gas 7.687 gallons @ $2.399/gal    | gas                  |
+| 2015-08-02 | expense |   13.23 | PX misc                                  | household-items      |
+| 2015-08-03 | expense |   19.96 | PX misc                                  | household-items      |
+| 2015-08-03 | expense |   24.95 | PX garden hose (same receipt)            | household-items      |
+| 2015-08-03 | expense |  302.50 | ATM                                      | cash                 |
+| 2015-08-03 | expense |   39.95 | PX wristwatch  (same receipt)            | electronics          |
+| 2015-08-06 | expense |   19.05 | Fort Hood commissary                     | groceries            |
+| 2015-08-06 | expense |   22.91 | PX misc                                  | household-items      |
+| 2015-08-09 | expense |   25.92 | Lowes air filters                        | household-items      |
+| 2015-08-20 | expense |    9.98 | PX soft drinks                           | groceries            |
+| 2015-08-27 | expense |  302.50 | ATM                                      | cash                 |
+| 2015-08-31 | expense |   19.85 | 7-11 gas 9.457 gallons @ $2.099/gal      | gas                  |
+| 2015-09-15 | expense |  302.50 | ATM                                      | cash                 |
+| 2015-09-21 | expense |   14.39 | PX gas 7.742 gallons @ $14.39/gal        | gas                  |
+| 2015-09-22 | expense |   16.11 | Walmart headphones                       | household-items      |
+| 2015-09-22 | expense |   74.70 | Cellairis Walmart phone repair           | electronics          |
+| 2015-09-25 | expense |   62.44 | Walmart DVD player, HDMI cable           | electronics          |
+| 2015-09-26 | expense |   10.09 | Kroger gas 5.074 gallons @ $1.989/gal    | gas                  |
+| 2015-09-27 | expense |   51.84 | PX misc                                  | household-items      |
+| 2015-10-05 | expense |   47.47 | PX towels, misc, ...                     | household-items      |
+| 2015-10-24 | expense |   87.00 | PX MCSS ASU trousers                     | uniform              |
+| 2015-10-26 | expense |   32.46 | PX Spirit Halloween (for band concert)   | uniform              |
+| 2015-10-31 | expense |   15.84 | PX gas 8.339 gallons @ $1.899/gal        | gas                  |
+| 2015-11-01 | expense |   55.98 | PX clothes for TDY                       | clothes              |
+| 2015-11-07 | expense |   37.98 | PX clothes                               | clothes              |
+| 2015-11-12 | expense |  302.50 | ATM                                      | cash                 |
+| 2015-11-24 | expense |   15.92 | PX gas 8.848 gallons @ $1.799            | gas                  |
+| 2015-11-27 | expense |   10.44 | Kroger gas 5.806 gallons @ $1.799/gal    | gas                  |
+| 2015-12-02 | expense |  303.00 | ATM                                      | cash                 |
+| 2015-12-05 | expense |   13.18 | PX gas 7.450 gallons @ $1.769/gal        | gas                  |
+| 2015-12-15 | expense |   84.99 | PX running shoes GEL FNDTN10             | clothes              |
+| 2015-12-20 | expense |  302.50 | ATM                                      | cash                 |
+| 2015-12-21 | expense |   13.54 | PX gas 7.877 gallons @ $1.719/gal        | gas                  |
+| 2015-12-26 | expense |   46.53 | O'Reilly Auto Parts wiper blades         | car                  |
+| 2015-12-26 | expense |    8.94 | Kroger gas 5.262 gallons @ $1.699/gal    | gas                  |
+| 2015-12-28 | expense |   73.84 | PX ProResults toothbrush tip, ...        | household-items      |
+| 2016-01-03 | expense |   11.61 | PX gas 6.996 gallons @ $1.659/gal        | gas                  |
+| 2016-01-07 | expense |   11.24 | Golden Corral                            | restaurants          |
+| 2016-01-11 | expense |  302.50 | ATM                                      | cash                 |
+| 2016-01-23 | expense |   12.61 | PX gas 8.303 gallons @ $1.519/gal        | gas                  |
+| 2016-01-30 | expense |   26.64 | PX ?                                     | household-items      |
+| 2016-01-30 | expense |  302.50 | ATM                                      | cash                 |
+| 2016-02-09 | expense |   12.28 | PX gas 8.417 gallons @ $1.459/gal        | gas                  |
+| 2016-02-17 | expense |    6.65 | PX gas 5.040 gallons @ $6.65/gal         | gas                  |
+| 2016-02-20 | expense |   10.21 | PX gas 7.744 gallons @ $1.319/gal        | gas                  |
+| 2016-02-24 | expense |   24.26 | PX misc                                  | household-items      |
+| 2016-02-26 | expense |  102.50 | ATM                                      | cash                 |
+| 2016-03-03 | expense |  302.50 | ATM                                      | cash                 |
+| 2016-03-07 | expense |    9.15 | PX gas 5.866 gallons @ $1.559/gal        | gas                  |
+| 2016-03-08 | expense |    9.66 | Kroger Coke, sandwich                    | groceries            |
+| 2016-03-12 | expense |   10.12 | Kroger gas 6.326 gallons @ $1.599/gal    | gas                  |
+| 2016-04-03 | expense |   12.67 | PX gas can                               | household-items      |
+| 2016-04-03 | expense |   13.23 | PX gas 7.523 gallons @ $1.759/gal        | gas                  |
+| 2016-04-03 | expense |    3.55 | PX gas 2.020 gallons @ $1.759/gal        | gas                  |
+| 2016-04-19 | expense |   12.05 | PX gas 6.776 gallons @ $1.779/gal        | gas                  |
+| 2016-04-19 | expense |  302.50 | ATM                                      | cash                 |
+| 2016-04-22 | expense |    7.74 | Kroger gas 4.209 gallons @ $1.839/gal    | gas                  |
+| 2016-04-25 | expense |   11.52 | PX misc                                  | household-items      |
+| 2016-05-04 | expense |   12.24 | Golden Corral                            | food restaurants     |
+| 2016-05-05 | expense |   17.22 | PX gas 9.262 gallons @ $1.859/gal        | gas                  |
+| 2016-05-08 | expense |   15.42 | PX misc                                  | household-items      |
+| 2016-05-16 | expense |   11.13 | Old Chicago                              | food restaurants     |
+| 2016-05-18 | expense |  302.50 | ATM                                      | cash                 |
+| 2016-05-25 | expense |    7.93 | PX gas 4.049 gallons at $1.959/gal       | gas                  |
+| 2016-06-03 | expense |   13.33 | PX gas 6.473 gallons @ $2.059/gal        | gas                  |
+| 2016-06-06 | expense |  303.00 | ATM                                      | cash                 |
+| 2016-06-10 | expense |   12.90 | Kroger gas 6.389 gallons @ $2.019/gal    | gas                  |
+| 2016-06-22 | expense |   17.99 | PX gas 8.868 gallons @ $2.029/gal        | gas                  |
+| 2016-06-25 | expense |   14.84 | PX misc                                  | household-items      |
+| 2016-06-27 | expense |  302.50 | ATM                                      | cash                 |
+| 2016-07-07 | expense |   14.25 | PX gas 7.203 gallons @ $1.979/gal        | gas                  |
+| 2016-07-14 | expense |   12.21 | Main PX                                  | household-items      |
+| 2016-07-14 | expense |   23.64 | Texas Land & Cattle                      | food restaurants     |
+| 2016-07-19 | expense |    9.81 | PX gas 5.168 gallons @ $1.899/gal        | gas                  |
+| 2016-07-27 | expense |    0.96 | Kroger notebook                          | household-items      |
+| 2016-07-26 | expense |    2.50 | UHCL visitor parking fee                 | education            |
+| 2016-07-29 | expense |   11.77 | Kroger gas 6.200 gallons @ $1.899/gal    | gas                  |
+| 2016-07-29 | expense |  303.00 | ATM                                      | cash                 |
+| 2015-10-08 | expense |   16.65 | PX gas 8.327 gallons @ $1.999/gal        | gas                  |
+| 2016-02-02 | expense |   85.79 | Jiffy Lube oil change od=19,576          | car-maintenance      |
+| 2016-08-05 | expense |   14.73 | PX gas 8.009 gallons @ $1.839/gal        | gas                  |
+| 2016-08-01 | expense |    5.00 | transcript: Alvin Community College      | education            |
+| 2016-08-04 | expense |    7.25 | transcript: (UMUC?)                      | education            |
+| 2016-08-05 | expense |   10.00 | transcript: Parchment VCU                | education            |
+| 2016-08-06 | expense |   45.00 | UHCL application                         | education            |
+| 2014-01-28 | expense | 1545.07 | Home Depot: washer & dryer               | household-appliances |
+| 2014-03-24 | expense |  389.98 | PX: lawnmower                            | household-appliances |
+| 2014-01-26 | expense |  188.98 | PX: vacuum cleaner, Hoover WT Air        | household-appliances |
+| 2016-08-08 | expense |   33.19 | Walmart                                  | groceries            |
+| 2016-08-18 | expense |   11.93 | 1CD Band luncheon: Fuddruckers           | restaurants          |
+|            |         |         |                                          |                      |
